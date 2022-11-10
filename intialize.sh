@@ -1,0 +1,1 @@
+echo "psql -U postgres -f periodic_table.sql"
